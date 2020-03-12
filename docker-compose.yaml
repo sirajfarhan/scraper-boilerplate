@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  selenium:
+    image: 'selenium/standalone-chrome'
+
+  app:
+    image: ''
+    command: 'node index.js'
+    links:
+      - selenium
+    depends_on:
+      - selenium

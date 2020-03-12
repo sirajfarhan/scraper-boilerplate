@@ -1,0 +1,18 @@
+{
+  "name": "scraper-boilerplate",
+  "version": "1.0.0",
+  "bundleId": "ai.siraj.scraper",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.635.0",
+    "csvtojson": "^2.0.10",
+    "delay": "^4.3.0",
+    "lodash": "^4.17.15",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "string-similarity": "^4.0.1",
+    "timeago-reverse": "^1.0.10"
+  }
+}
