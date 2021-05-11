@@ -8,7 +8,7 @@
     "aws-sdk": "^2.635.0",
     "csvtojson": "^2.0.10",
     "delay": "^4.3.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "selenium-webdriver": "^4.0.0-alpha.5",
